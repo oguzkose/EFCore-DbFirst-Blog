@@ -1,0 +1,9 @@
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\bin\Debug\netcoreapp3.1\BlogWebsite.Data.deps.json
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\bin\Debug\netcoreapp3.1\BlogWebsite.Data.dll
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\bin\Debug\netcoreapp3.1\BlogWebsite.Data.pdb
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.csprojAssemblyReference.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.AssemblyInfoInputs.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.AssemblyInfo.cs
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.dll
+C:\Users\Oğuz KÖSE\source\repos\oguzkose\EFCore-DbFirst-Blog\BlogWebsite.Data\obj\Debug\netcoreapp3.1\BlogWebsite.Data.pdb

@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogWebsite", "BlogWebsite\BlogWebsite.csproj", "{9900673F-55C5-4554-95DF-9229EB09900D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogWebsite", "BlogWebsite\BlogWebsite.csproj", "{9900673F-55C5-4554-95DF-9229EB09900D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogWebsite.Data", "BlogWebsite.Data\BlogWebsite.Data.csproj", "{5EFF2755-BDB8-4F5F-8A3C-30A82AB2DDD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseScriptFile", "DatabaseScriptFile", "{4CC8FAB9-FDE5-4CD3-BAD1-517CF5565406}"
+	ProjectSection(SolutionItems) = preProject
+		BlogDb-Script.sql = BlogDb-Script.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{9900673F-55C5-4554-95DF-9229EB09900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9900673F-55C5-4554-95DF-9229EB09900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9900673F-55C5-4554-95DF-9229EB09900D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFF2755-BDB8-4F5F-8A3C-30A82AB2DDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFF2755-BDB8-4F5F-8A3C-30A82AB2DDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFF2755-BDB8-4F5F-8A3C-30A82AB2DDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFF2755-BDB8-4F5F-8A3C-30A82AB2DDD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
